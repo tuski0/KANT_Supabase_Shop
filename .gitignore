@@ -1,0 +1,18 @@
+# Python-generated files
+__pycache__/
+*.py[oc]
+build/
+dist/
+wheels/
+*.egg-info
+
+# Virtual environments
+.venv
+
+# 환경 변수 (Supabase 키) - 커밋 금지
+.env
+.env.*
+!.env.example
+
+# OS
+.DS_Store

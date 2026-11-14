@@ -1,0 +1,19 @@
+[project]
+name = "kant-supabase-shop"
+version = "0.1.0"
+description = "KANT 데이터베이스 & AI 활용 과제 - Supabase 쇼핑몰 CRUD"
+readme = "README.md"
+authors = [
+    { name = "tuski0", email = "tuski0@naver.com" }
+]
+requires-python = ">=3.13"
+dependencies = [
+    "python-dotenv>=1.2.4",
+    "supabase>=2.34.1",
+]
+
+
+[dependency-groups]
+dev = [
+    "ipykernel>=7.4.0",
+]

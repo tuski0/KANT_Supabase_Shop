@@ -1,0 +1,4 @@
+-- 쇼핑몰 테이블 생성 (Supabase SQL Editor에서 실행)
+-- TODO: 회원 테이블 (PK)
+-- TODO: 상품 테이블 (PK)
+-- TODO: 주문 테이블 (PK, 회원·상품 FK)
