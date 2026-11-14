@@ -36,7 +36,7 @@ KANT_Supabase_Shop/
 
 ```bash
 uv sync
-cp .env.example .env   # SUPABASE_URL, SUPABASE_ANON_KEY 입력
+cp .env.example .env   # SUPABASE_URL, SUPABASE_PUBLISHABLE_KEY 입력
 uv run main.py
 ```
 
